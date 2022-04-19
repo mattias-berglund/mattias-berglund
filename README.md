@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mattias Berglund
-- 📫 You can reach me via email: mattias.berglund at computer.se
+- 📫 You can reach me via email: mattias.berglund@computer.se
 
 <!---
 mattias-berglund/mattias-berglund is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
